@@ -1,2 +1,3 @@
 # small-tasks
-my 1st repo. Author-Muhammad Khizar
+my 1st repo.
+Author-Muhammad Khizar
